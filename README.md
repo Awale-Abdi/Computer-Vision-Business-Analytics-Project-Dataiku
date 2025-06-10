@@ -6,6 +6,7 @@ This project leverages computer vision and Dataiku’s machine learning platform
 ## 🚀 Highlights
 - Achieved **82% precision** using a **Fastest R-CNN** model within **Dataiku** after just 3 training epochs.
 - Created and labeled a **balanced image dataset** (100 photos: 58 jackets, 42 non-jackets).
+- Used **AWS S3** for secure and scalable storage of the image dataset.
 - Built a complete end-to-end ML pipeline: image labeling → object detection model → evaluation → strategic business reporting.
 - Aligned outputs to key business functions: **inventory optimization**, **geotargeted marketing**, and **logistics responsiveness**.
 - Benchmarked against industry use cases from **Zara**, **Heuritech**, and **Oracle**.
@@ -34,13 +35,14 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 ## 🧩 Tools & Technologies
 - `Dataiku DSS`: End-to-end machine learning platform
 - `Fastest R-CNN`: Object detection algorithm
+- `AWS S3`: Scalable object storage for dataset hosting
 - `Word`: Business insight documentation and visual reporting
 - `Power BI` *(optional next step)*: Future enhancement for dashboarding
 
 ## 📁 Project Structure
 
 - `Data`  
-  - `Photos.zip` – compressed file containing all photos (and extras) used 
+  - [`Photos.zip`](https://dataikufashion.s3.us-east-2.amazonaws.com/Photos.zip) – hosted on AWS S3; compressed file containing all photos used for training
 
 - `Outputs`  
   - `Business Insights Report` – 1,500-word academic write-up with results, visualizations, and references  
@@ -60,6 +62,7 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 ## 📄 Final Business Report
 The full 1,500-word business case—including Dataiku screenshots, precision charts, and strategic analysis—is available upon request or viewable as a linked PDF in this repository.
 
+---
 
 ### 📧 Contact Me
 
@@ -67,3 +70,4 @@ For questions or collaborations:
 
 - Email: **awaleiabdi@outlook.com**  
 - LinkedIn: [Awale Abdi](https://www.linkedin.com/in/awale-abdi/)
+
