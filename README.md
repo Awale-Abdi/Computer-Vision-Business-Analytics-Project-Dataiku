@@ -1,7 +1,7 @@
 <h1 align="center">🧥 Real-Time Winterwear Detection Using Computer Vision & Dataiku</h1>
 
 ## 📊 Overview
-This solo-developed project leverages computer vision and Dataiku’s machine learning platform to detect seasonal clothing patterns—specifically winterwear—using a curated dataset of real-world images. By identifying when people begin wearing jackets, the model supports real-time business decisions in inventory planning, marketing, and supply chain agility. This project bridges machine learning and commercial insight, offering a data-driven alternative to traditional trend forecasting in the fashion industry.
+This project leverages computer vision and Dataiku’s machine learning platform to detect seasonal clothing patterns—specifically winterwear—using a curated dataset of real-world images. By identifying when people begin wearing jackets, the model supports real-time business decisions in inventory planning, marketing, and supply chain agility. This project bridges machine learning and commercial insight, offering a data-driven alternative to traditional trend forecasting in the fashion industry.
 
 ## 🚀 Highlights
 - Achieved **82% precision** using a **Fastest R-CNN** model within **Dataiku** after just 3 training epochs.
