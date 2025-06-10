@@ -34,9 +34,16 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 ## 🧩 Tools & Technologies
 - `Dataiku DSS`: End-to-end machine learning platform
 - `Fastest R-CNN`: Object detection algorithm
-- `Python`: Used for dataset planning, labeling logic, and business analysis
-- `Excel / Word`: Business insight documentation and visual reporting
+- `Word`: Business insight documentation and visual reporting
 - `Power BI` *(optional next step)*: Future enhancement for dashboarding
+
+## ## 📁 Project Structure
+
+- `Data`  
+  - `Photos.zip` – compressed file containing all photos (and extras) used 
+
+- `Outputs/`  
+  - `Business Insights Report` – 1,500-word academic write-up with results, visualizations, and references  
 
 ## 📈 Model Performance
 - Training Epochs: 3  
