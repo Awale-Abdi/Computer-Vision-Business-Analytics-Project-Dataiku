@@ -42,7 +42,7 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 - `Data`  
   - `Photos.zip` – compressed file containing all photos (and extras) used 
 
-- `Outputs/`  
+- `Outputs`  
   - `Business Insights Report` – 1,500-word academic write-up with results, visualizations, and references  
 
 ## 📈 Model Performance
