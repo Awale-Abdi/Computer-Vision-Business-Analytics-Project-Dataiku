@@ -57,15 +57,8 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 - Extend training duration and optimize labeling process.
 - Test deployment using **YOLO**, **EfficientDet**, or **TensorFlow Serving**.
 
-## 📄 Report
+## 📄 Final Business Report
 The full 1,500-word business case—including Dataiku screenshots, precision charts, and strategic analysis—is available upon request or viewable as a linked PDF in this repository.
-
-## 🔗 References
-- [Heuritech](https://fashionunited.com/news/fashion/heuritech-launches-trend-forecasting-platform/2020120236817)
-- [Zara AI Supply Chain](https://aiexpert.network/case-study-zaras-comprehensive-approach-to-ai-and-supply-chain-management/)
-- [Oracle Fashion Analytics](https://www.oracle.com/retail/fashion/fashion-analytics/)
-
----
 
 
 ### 📧 Contact Me
