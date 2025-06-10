@@ -42,7 +42,7 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 ## 📁 Project Structure
 
 - `Data`  
-  - [`Photos.zip`](https://dataikufashion.s3.us-east-2.amazonaws.com/Photos.zip) – hosted on AWS S3; compressed file containing all photos used for training
+  - [`Photos.zip`](https://dataikufashion.s3.us-east-2.amazonaws.com/Photos.zip) – hosted on AWS S3; compressed file containing all photos used for training + others not used
 
 - `Outputs`  
   - `Business Insights Report` – 1,500-word academic write-up with results, visualizations, and references  
