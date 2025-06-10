@@ -37,7 +37,7 @@ Fashion retailers traditionally rely on static forecasts and historical data to 
 - `Word`: Business insight documentation and visual reporting
 - `Power BI` *(optional next step)*: Future enhancement for dashboarding
 
-## ## 📁 Project Structure
+## 📁 Project Structure
 
 - `Data`  
   - `Photos.zip` – compressed file containing all photos (and extras) used 
